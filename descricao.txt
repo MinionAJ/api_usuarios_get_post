@@ -1,0 +1,10 @@
+**************************************
+Criação de API para cadastrar usuário
+usando post e get
+
+data de criação 22/04/2026
+
+hora 14:28
+**************************************
+criado por CORRÊA, A.J.C.
+**************************************
