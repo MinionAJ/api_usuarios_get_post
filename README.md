@@ -29,7 +29,7 @@ Criar uma base sólida em desenvolvimento backend, abordando conceitos como:
 ## 📁 Estrutura do projeto
 
 ```
-projeto_api/
+api_usuarios_get_post/
 │
 └── src/
     ├── main.py
@@ -59,7 +59,7 @@ git clone <url-do-repositorio>
 ### 2. Acessar a pasta do projeto
 
 ```bash
-cd projeto_api
+cd api_usuarios_get_post
 ```
 
 ### 3. Instalar dependências
@@ -102,8 +102,8 @@ http://127.0.0.1:8000/docs
 
 CORRÊA, A.J.C.
 
-[https://linkedin.com](https://www.linkedin.com/in/adilsonjosecamposcorrea87/)
-[https://github.com](https://github.com/MinionAJ)
+- [https://linkedin.com](https://www.linkedin.com/in/adilsonjosecamposcorrea87/)
+- [https://github.com](https://github.com/MinionAJ)
 
 Projeto desenvolvido para fins de estudo e evolução na área de desenvolvimento de software.
 
